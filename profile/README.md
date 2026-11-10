@@ -1,4 +1,6 @@
-# 🚌 Senta Aí
+<img width="1600" height="563" alt="WhatsApp Image 2026-11-09 at 22 34 23" src="https://github.com/user-attachments/assets/c75c64a9-272c-44ca-b608-fcbc59287707" />
+
+
 
 > **Monitoramento em tempo real de ocupação e fluxo de passageiros no transporte público.**
 
