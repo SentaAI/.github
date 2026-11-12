@@ -8,3 +8,8 @@ Seja bem-vindo ao repositório referente ao projeto desenvolvido no ano de 2026 
 - Levi de Jesus - RM563279
 - Luigi Borghi - RM563096
 - Ulisses Ribeiro - RM562230
+
+---
+
+### ACESSE TAMBÉM NOSSO SITE:
+https://senta-ai-frontend-eight.vercel.app/
