@@ -12,4 +12,4 @@ Seja bem-vindo ao repositório referente ao projeto desenvolvido no ano de 2026 
 ---
 
 ### ACESSE TAMBÉM NOSSO SITE:
-https://senta-ai-frontend-eight.vercel.app/
+https://senta-ai-sigma.vercel.app/
